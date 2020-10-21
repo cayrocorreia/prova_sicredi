@@ -1,5 +1,5 @@
 ## ***Automação Web***
-Projeto criado como um desafio para automatizar plataforma web proposto pela empresa DBC
+Projeto criado como um desafio de automação web proposto pela empresa DBC
 <p> <br />
 
 
